@@ -4,6 +4,8 @@
 ## Clonar repositorio
 - git clone https://github.com/softkra/quick_help.git
 #### *No deberia presentar problemas al momento de clonarlo ya que el repositorio es publico*
+### La prueba tambien se sube a un servidor por si se presentan problemas de despliegue, se puede consultar a esta url: `95.216.158.143:8080`
+#### Ejemplo: `95.216.158.143:8080/api/client-report`
 ## Iniciar despliegue del proyecto mediante docker
 - Una vez clonado el repositorio, se ingresa al directorio  'quick_help'
 - Con `docker-compose up --build -d` se iniciará la contruccion de los contenedores docker que estan configurados para trabajar con la version de Python 3.9 y la ultima de Django soportada por la version de python
@@ -82,7 +84,5 @@ django_1  | Quit the server with CONTROL-C.
       12548965,julio,sanchez,jsanchez@gmail.com
       524163,roberto,galindo,rgalinfo@gmail.com
     ```
-### La prueba se sube a un servidor por si se presentan problemas de despliegue, se puede consultar a esta url: `95.216.158.143:8080`
-#### Ejemplo: `95.216.158.143:8080/api/client-report`
 
 ##### _El código almacenado en este GitHub fue desarrollado por Christian David Porres_
