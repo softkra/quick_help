@@ -85,4 +85,4 @@ django_1  | Quit the server with CONTROL-C.
 ### La prueba se sube a un servidor por si se presentan problemas de despliegue, se puede consultar a esta url: `95.216.158.143:8080`
 #### Ejemplo: `95.216.158.143:8080/api/client-report`
 
-##### _Este código almacenado en este GitHub fue desarrollado por Christian David Porres_
+##### _El código almacenado en este GitHub fue desarrollado por Christian David Porres_
